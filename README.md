@@ -1,1 +1,1 @@
-# Rubi-s-Cube
+## Rubiks-Cube
